@@ -4,4 +4,4 @@
 ## Módulo: IAW
 ## Ciclo: CFGS 2ASIR
 
-Pila LAMP creado con Docker y Docker Compose para 2ASIR-IAW
+Pila Docker Compose LAMP con mysql 2ASIR-IAW
